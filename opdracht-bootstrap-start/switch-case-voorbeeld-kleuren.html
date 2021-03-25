@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <style type="text/css">
+    html {
+      font-family: sans-serif;
+    }
+
+    h2 {
+      font-size: 16px;
+    }
+
+    .a11y-label {
+      margin: 0;
+      text-align: right;
+      font-size: 0.7rem;
+      width: 98%;
+    }
+
+    body {
+      margin: 10px;
+      background: #f5f9fa;
+    }
+  </style>
+
+  <title>Kleuren Example voor Weather oefening te maken</title>
+</head>
+
+<body>
+
+  <h2>Live output</h2>
+  <div class="output" style="height: 300px;">
+    <label for="theme">Select theme: </label>
+    <select id="theme">
+      <option value="white">White</option>
+      <option value="black">Black</option>
+      <option value="purple">Purple</option>
+      <option value="yellow">Yellow</option>
+      <option value="psychedelic">Psychedelic</option>
+    </select>
+
+    <h1>This is my website</h1>
+
+    <p class="paragraaf">Paragraaf 1. Paragraaf 1. Paragraaf 1. Paragraaf 1. Paragraaf 1.</p>
+    <div class="javascript">Javascript is een scripting taal. Het woord taal duidt op een communicatiemiddel met afgesproken regels. Het is dus perfect mogelijk Javascript te vergelijken met een gesproken taal zoals Nederlands, Engels of Frans. Ook een scripting taal bevat grammatica en woordenschat. De combinatie hiervan noemen we de syntax van een scripting- of programmeertaal. Ze vormen zinnen, die we technisch gezien opdrachten of opdrachtregels noemen. De browser spreekt de taal die we schrijven en zal dus begrijpen wat er moet uitgevoerd worden. Het is altijd een goed idee een opdrachtregel te "vertalen" naar het Nederlands of Engels om beter te begrijpen wat de regel juist doet!</div>
+  </div>
+
+  <script>
+    const select = document.querySelector('select');
+    const elementOmTeKleuren = document.querySelector('.paragraaf');
+
+    select.onchange = function () {
+      switch (select.value) { // yellow
+        case 'black':
+          update('black', 'white');
+          break;
+        case 'white':
+          update('white', 'black');
+          break;
+        case 'purple':
+          update('purple', 'white');
+          break;
+        case 'yellow':
+          update('yellow', 'darkgray');
+          break;
+        case 'psychedelic':
+          update('lime', 'purple');
+          break;
+      }
+    }
+
+    function update(bgColor, textColor) {
+      elementOmTeKleuren.style.backgroundColor = bgColor;
+      elementOmTeKleuren.style.color = textColor;
+    }
+  </script>
+
+</body>
+
+</html>
