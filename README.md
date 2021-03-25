@@ -7,6 +7,8 @@ Dit is het vervolg op de cursus Website Animatie 1
 
 [Les 1](./les_01) Responsive Design
 
+[Les 2](./les_02)
+
 ## Overzicht Tooling
 
 ### Visual Studio Code
