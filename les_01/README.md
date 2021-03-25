@@ -1,4 +1,4 @@
-# Responsive Design
+# Les 1: Responsive Design & herhaling
 
 In de begindagen van webdesign werden pagina's gebouwd om een bepaalde schermgrootte te targeten. Als de gebruiker een groter of kleiner scherm had dan de ontwerper had verwacht, varieerden de resultaten van ongewenste schuifbalken tot te lange lijnlengtes en slecht ruimtegebruik. Naarmate er meer verschillende schermformaten beschikbaar kwamen, verscheen het concept van _responsief webdesign_ (RWD), een reeks praktijken waarmee webpagina's hun lay-out en uiterlijk kunnen aanpassen aan verschillende schermbreedtes, resoluties, enz. Het is een idee dat de manier waarop we ontwerpen voor een web met meerdere apparaten heeft veranderd, en in dit artikel helpen we u de belangrijkste technieken te begrijpen die u moet kennen om het onder de knie te krijgen.
 

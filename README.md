@@ -7,7 +7,6 @@ Dit is het vervolg op de cursus Website Animatie 1
 
 [Les 1](./les_01) Responsive Design
 
-
 ## Overzicht Tooling
 
 ### Visual Studio Code
@@ -15,6 +14,7 @@ Dit is het vervolg op de cursus Website Animatie 1
 We gaan in onze lessen voornamelijk gebruik maken van Visual Studio Code. [Je kan hier meer informatie vinden](visual-code-extensions.md)
 
 ### CodePen
+
 Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel inspirerende code / html snippets vinden van andere mensen.
 
 [https://codepen.io/](https://codepen.io/)
