@@ -69,3 +69,7 @@ Extra extra large | `xxl`       | ≥1400px
 ### Bootstrap Zelf toepassen
 
 [Enkele voorbeelden van Bootstrap op W3schools](https://www.w3schools.com/bootstrap/bootstrap_templates.asp)
+
+Hier nog meer voorbeelden voor Bootstrap Templates:
+
+[https://bootstrapmade.com/](https://bootstrapmade.com/) hier kan je templates vinden
