@@ -9,7 +9,9 @@ Dit is het vervolg op de cursus Website Animatie 1
 
 [Les 2](./les_02)
 
-## Overzicht Tooling
+## Overzicht Opdrachten
+
+[Opdracht Video Achtergrond](./opdracht-video-background) tegen 06/05/2021
 
 ### Visual Studio Code
 
