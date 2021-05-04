@@ -72,4 +72,4 @@ Extra extra large | `xxl`       | ≥1400px
 
 Hier nog meer voorbeelden voor Bootstrap Templates:
 
-[https://bootstrapmade.com/](https://bootstrapmade.com/) hier kan je templates vinden
+[https://bootstrapmade.com/](https://bootstrapmade.com/) hier kan je templates vinden.
