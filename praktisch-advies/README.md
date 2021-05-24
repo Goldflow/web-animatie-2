@@ -2,6 +2,24 @@
 
 Ik ga jullie hier een overzicht geven van verschillende praktische tips die jullie kunnen gebruiken bij het uitwerken van jullie opdrachten.
 
+### Developer Tools gebruiken
+
+#### Kleur vinden en vervangen
+
+In onderstaande video leg ik uit hoe je met de Developer Tools & de Inspector kan werken om kleuren van een bepaalde website te vinden en hoe je een kleur die meerdere keren wordt gebruikt, snel meerdere keren kan veranderen in je CSS op basis van de informatie die je in de Developer Tools kan vinden.
+
+<video width="600" controls>
+<source src="dev-tools1.mkv">
+</video>
+
+#### Afbeelding vinden en vervangen
+
+In onderstaande video leg ik uit hoe je met de Developer Tools & de Inspector kan werken een afbeelding die als achtergrond staat ingesteld aan te passen.
+
+<video width="600" controls>
+<source src="dev-tools2.mkv">
+</video>
+
 #### HTML Valideren
 
 Op deze pagina kan je een website ingeven om het te laten controleren en te zien of de HTML valid is. Dit is een goeie manier om te zorgen dat je webpagina / HTML volledig in orde is.
