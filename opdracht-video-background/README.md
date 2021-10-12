@@ -15,6 +15,10 @@ Dien in als .zip bestand in de daartoe betreffende Uploadzone in de module Websi
 
 ## Meer Info
 
+Je kan zelf een mp4 video maken door Adobe Media Encoder te gebruiken en gelijk welke video om te zetten naar .mp4 formaat (kies Youtube 720 setting).
+
+Nog makkelijker is deze link gebruiken [https://yt1s.com/en5](https://yt1s.com/en5) hier kan je een youtube link van een video naar keuze in plaatsen en die zal het omvormen naar een .mp4 video.
+
 Uitleg met video:
 
 <video width="600" controls>
