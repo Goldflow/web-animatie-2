@@ -13,6 +13,10 @@ Dit is het vervolg op de cursus Website Animatie 1
 
 [Opdracht Video Achtergrond](./opdracht-video-background) tegen 06/05/2021
 
+## Praktisch Advies HTML & CSS
+
+[Kan je hier vinden](./praktisch-advies)
+
 ### Visual Studio Code
 
 We gaan in onze lessen voornamelijk gebruik maken van Visual Studio Code. [Je kan hier meer informatie vinden](visual-code-extensions.md)
